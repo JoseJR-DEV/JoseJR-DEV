@@ -4,7 +4,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minh
 
 Atualmente, estou desenvolvendo meus conhecimentos em programação, lógica e testes de software. Busco minha primeira oportunidade na área de TI para colocar meus conhecimentos em prática, adquirir experiência e continuar evoluindo profissionalmente.
 
-            💻 Tecnologias e conhecimentos
+   💻 Tecnologias e conhecimentos
 Python
 Lógica de Programação
 SQL / MySQL
