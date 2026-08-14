@@ -4,23 +4,23 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minh
 
 Atualmente, estou desenvolvendo meus conhecimentos em programação, lógica e testes de software. Busco minha primeira oportunidade na área de TI para colocar meus conhecimentos em prática, adquirir experiência e continuar evoluindo profissionalmente.
 
-💻 Tecnologias e conhecimentos
+            💻 Tecnologias e conhecimentos
 Python
 Lógica de Programação
 SQL / MySQL
 Fundamentos de Testes de Software
 Scrum e Kanban
-📚 Atualmente estudando
+           📚 Atualmente estudando
 Python
 Banco de Dados
 Testes de Software
 Qualidade de Software (QA)
-🎯 Áreas de interesse
+          🎯 Áreas de interesse
 Qualidade de Software (QA)
 Testes de Software
 Automação de Testes
 Desenvolvimento de Software
-🚀 Projetos
+         🚀 Projetos
 Calculadora em Python
 
 Projeto desenvolvido para colocar em prática meus conhecimentos iniciais em Python e lógica de programação.
